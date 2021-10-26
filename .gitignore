@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!00_Intro_to_ASDAF_Day2.ipynb
+!01_Intro_to_ASDAF_Data_Sources.ipynb
+!02_Automation_using_SARA_Client.ipynb
+!03_Intro_to_Pawsey.ipynb
